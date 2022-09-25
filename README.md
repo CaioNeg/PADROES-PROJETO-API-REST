@@ -47,3 +47,5 @@ São classificados nas seguintes categorias:<br>
 * Excluímos o cliente criado
 ![image](https://user-images.githubusercontent.com/73142478/192070063-b18baf68-df80-4410-8990-57a89f0faa2d.png)
 ![image](https://user-images.githubusercontent.com/73142478/192070144-fb0bc886-48ac-4e44-a7b2-b4be6b3999b6.png)
+
+
